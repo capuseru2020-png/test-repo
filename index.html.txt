@@ -1,1 +1,11 @@
-test
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <title>GitHub Pages Test</title>
+</head>
+<body>
+  <h1>表示できた</h1>
+  <p>GitHub Pages 正常動作中</p>
+</body>
+</html>
